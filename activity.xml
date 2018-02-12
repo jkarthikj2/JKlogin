@@ -1,0 +1,108 @@
+<LinearLayout 
+xmlns:android=”http://schemas.android.com/apk/res/android” 
+android:layout_height=”match_parent” 
+android:layout_width=”match_parent” 
+android:orientation=”vertical” 
+<Text View 
+android:id=”@+id/textview6” 
+android :Iayout_width=”wrap_content’ 
+android:Iayout_height=”wrap_content” 
+android:padding=”8dp” 
+android:text=” welcome’ 
+android:textSize=”30sp” 
+android:textStyle=”bold/italic” 
+android:textColor=”#FF5722” 
+android:singleLine=’true” 
+I> 
+<Text View 
+android:id=”@+id/textview5” 
+android :Iayout_width=”wrap_content” 
+android:Iayout_height=”wrap_content” 
+android:padding=”8dp” 
+android:text=”Enter you email username&amp; password” 
+android:textSize=”20sp” 
+android:textStyle=”italic” 
+android:textColor=”#7CB342” 
+android:singleLine=”true” 
+I> 
+<Text View 
+android:id=”@+id/textview1 "
+android:Iayout_width = “wrap_content” 
+android :Iayout_height=”wrap_content” 
+android:padding=”8dp” 
+android:text=”username” 
+android:textSize=”25sp” 
+android:textColor=”#000000” 
+I> 
+<EditText 
+android:id=”@+id/edittextl” 
+android :Iayout_width=”wrap_content” 
+android :Iayout_height=’wrap_content” 
+android:padding=”8dp” 
+android:textSize=”12sp” 
+android:textColor=”#000000” 
+android:hint=”Edit Text” 
+android:textColorHint=’#607D8B” 
+I> 
+<Text View 
+android:id=”@+id/textview2” 
+android:layout_width=”wrap_content” 
+android:layout_height=”wrap_content” 
+android:padding=’8dp” 
+android:text=”password” 
+android:textSize=”25sp” 
+android:textColor=’#000000” 
+I> 
+<EditText 
+android:id=”@+id/edittext2” 
+android:layout_width=’wrap_content” 
+android:layout_height=”wrap_content” 
+android:padding=’8dp’ 
+android:textSize=”l 2sp” 
+android:textColor=’#000000” 
+android:hint=”Edit Text” 
+android:textColorHint=”#607D8B” 
+I> 
+<Button 
+android:id=”@+id/button1” 
+android:layout_width=”wrap_content” 
+android:layout_height=”wrap_content” 
+android:padding=”8dp’ 
+android:text=”Iog in” 
+android:textSize=”25sp” 
+android:textStyle=”bold” 
+android:textColor=”#455A64” 
+I> 
+<WebView 
+android:id=”@+id/webview1” 
+android:Iayout_width=”match...parent” 
+android:layout_height=”match....parent” 
+I> 
+<Spinner 
+android:id=”+id/spinner1” 
+android:layout_width=”match_parent” 
+android:Iayout_height=”wrap_content” 
+android:padding=”8dp” 
+android:background=”@drawable/jkj” 
+android:spinnerMode=”dropdown” 
+I> 
+<LinearLayout 
+android:id=”@+id/Iinear2” 
+android:Iayout_width = “wrap_content” 
+android:layout_height=”match...parent” 
+android:padding=’8dp” 
+android:orientation=”vertical” 
+> 
+</LinearLayout> 
+<HorizontalScrollView 
+android:id=”@+id/hscroll1” 
+android:layout_width=”match_parent” 
+android :layout_height=”wrap_content” 
+android:padding=”8dp” 
+android:background=”#CFD8DC” 
+> 
+</HorizontalScrollView> 
+<ILinearLayout> 
+
+
+
